@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDFA", "CDFA\CDFA.csproj", "{E226E532-6537-458B-98F7-E4A944244D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E226E532-6537-458B-98F7-E4A944244D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E226E532-6537-458B-98F7-E4A944244D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E226E532-6537-458B-98F7-E4A944244D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E226E532-6537-458B-98F7-E4A944244D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA91D8A-D9BF-441C-9CE4-0C0AD6953A06}
+	EndGlobalSection
+EndGlobal
